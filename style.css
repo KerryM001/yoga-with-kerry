@@ -1,0 +1,37 @@
+/* fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
+
+.nav {
+   
+}
+
+.nav li {
+    clear: both;
+    float: right;
+    text-align: left;
+    display: block;
+    font: oswald, sans-serif;
+}
+
+h1 {
+    font: oswald, sans-serif;
+    font-size: large;
+}
+
+h1 p {
+    font: oswald, sans-serif;
+    font-size: medium;
+}
+
+.home {
+
+}
+
+.classes {
+
+}
+
+.signup {
+
+}
