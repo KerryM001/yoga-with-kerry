@@ -5,10 +5,7 @@
 body {
     font-family: Oswald, sans-serif;
     background-color: #e09f7d;
-}
-
-.nav {
-   
+    font-weight: 300;
 }
 
 .nav li {
@@ -19,9 +16,14 @@ body {
     font: oswald, sans-serif;
 }
 
+/* headings and logo */
+
+
 h1 {
     font: oswald, sans-serif;
     font-size: large;
+    text-transform: uppercase;
+    letter-spacing: 4px;
 }
 
 h1 p {
@@ -29,14 +31,7 @@ h1 p {
     font-size: medium;
 }
 
-.home {
-
-}
-
-.classes {
-
-}
-
-.signup {
-
+#logo {
+    float: left;
+    font-size: 280%;
 }
