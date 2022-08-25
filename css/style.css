@@ -19,10 +19,16 @@ body {
     float: right;
     letter-spacing: 4px;
     margin-right: 30px;
+    position: sticky;
 }
 
 /* headings and logo */
 
+p {
+    letter-spacing: 4px;
+    font: oswald, sans-serif;
+
+}
 
 h1 {
     font: oswald, sans-serif;
@@ -39,4 +45,37 @@ h1 p {
 #logo {
     float: left;
     font-size: 280%;
+}
+
+#about div {
+    float: left;
+    letter-spacing: 4px;
+}
+
+#classes div {
+    float: center;
+    letter-spacing: 4px;
+}
+
+#signup div {
+    float: right;
+    letter-spacing: 4px;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+    position: relative;
+    bottom: auto;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media > li {
+    display: inline;
+    font-size: 120%;
+    letter-spacing: 4px;
 }
