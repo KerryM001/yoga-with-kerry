@@ -47,19 +47,22 @@ h1 p {
     font-size: 280%;
 }
 
-#about div {
+#about {
     float: left;
     letter-spacing: 4px;
+    margin: 33%;
 }
 
-#classes div {
+#timetable {
     float: center;
     letter-spacing: 4px;
+    margin: 33%;
 }
 
-#signup div {
-    float: right;
+#signup {
+    float: center;
     letter-spacing: 4px;
+    margin: 33%;
 }
 
 /* footer */
@@ -75,13 +78,13 @@ footer {
 }
 
 .social-media > li {
-    display: inline;
+    display: block;
     font-size: 120%;
     letter-spacing: 4px;
 }
 
 .social-media i {
-    font-size: 160%;
+    font-size: 140%;
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
