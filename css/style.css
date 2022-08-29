@@ -20,7 +20,7 @@ body {
 #hero-image {
     background: url(/css/pexels-savanna-goldring-5184327.jpg) no-repeat center;
     background-size: cover;
-    height: 700px;
+    height: 650px;
     position: relative;
   }
 
@@ -29,6 +29,7 @@ body {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+    color: #5C7457;
 }
 
 #menu li {
@@ -36,6 +37,7 @@ body {
     letter-spacing: 4px;
     margin-right: 30px;
     position: sticky;
+    color: #5C7457;
 }
 
 /* headings and logo */
@@ -46,7 +48,7 @@ body {
     margin-top: 5px;
     margin-bottom: 70px;
     background-color: transparent; 
-
+    color: #254441;
 }
 
 p {
@@ -71,43 +73,47 @@ h1 p {
     float: left;
     letter-spacing: 4px;
     margin: 33%;
+    color: #254441;
 }
 
 #timetable {
     float: center;
     letter-spacing: 4px;
     margin: 33%;
+    color: #254441;
 }
 
 #signup {
     float: center;
     letter-spacing: 4px;
     margin: 33%;
+    color: #254441;
 }
 
 /* footer */
 
 footer {
     height: 150px;
-    position: relative;
-    bottom: auto;
+    color: #254441;
 }
 
 .social-media {
     text-align: center;
+    color: #254441;
 }
 
 .social-media > li {
-    display: block;
+    display: inline;
     font-size: 120%;
     letter-spacing: 4px;
+    color: #254441;
 }
 
 .social-media i {
     font-size: 140%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #254441;
 }
 
 /* media queries */
