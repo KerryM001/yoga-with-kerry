@@ -86,8 +86,10 @@ h1 p {
 #signup {
     float: center;
     letter-spacing: 4px;
-    margin: 33%;
     color: #254441;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* footer */
