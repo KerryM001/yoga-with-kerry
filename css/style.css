@@ -92,6 +92,13 @@ h1 p {
     align-items: center;
 }
 
+#contactus {
+    float: center;
+    letter-spacing: 4px;
+    margin: 33%;
+    color: #254441;
+}
+
 /* footer */
 
 footer {
