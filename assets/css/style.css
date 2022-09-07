@@ -89,7 +89,6 @@ h1 p {
     letter-spacing: 4px;
     color: #254441;
     display: flex;
-    justify-content: center;
     align-items: center;
 }
 
@@ -130,4 +129,62 @@ footer {
 
 /* for larger to medium screen sizes from 1200px wide and down */
 
+@media screen and (max-width: 1200px) {
+    #about {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #timetable {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    #signup {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #contactus {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
+}
+
 /* for medium screen sizes from 950px wide and down */
+
+#menu {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+}
+
+#about {
+    width: 90%;
+    height: 1200px;
+    margin: 0 auto;
+}
+
+h1 {
+    width: inherit;
+}
+
+h2 {
+    width: 100%;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    padding: 0 20px;
+}
