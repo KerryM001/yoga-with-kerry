@@ -30,7 +30,7 @@ body {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
-    color: #5C7457;
+    color: white;
 }
 
 #menu li {
@@ -38,7 +38,7 @@ body {
     letter-spacing: 4px;
     margin-right: 30px;
     position: sticky;
-    color: #5C7457;
+    color: white;
 }
 
 /* headings and logo */
@@ -49,7 +49,7 @@ body {
     margin-top: 5px;
     margin-bottom: 70px;
     background-color: transparent; 
-    color: #254441;
+    color: white;
 }
 
 p {
@@ -71,32 +71,67 @@ h1 p {
 }
 
 #about {
-    float: left;
     letter-spacing: 4px;
-    margin: 20%;
+    margin: 33%;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #97B1A6;
+}
+
+#about p {
+    letter-spacing: 4px;
     color: #254441;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 #timetable {
-    float: center;
+    
     letter-spacing: 4px;
     margin: 33%;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #97B1A6;
+}
+
+#timetable ul {
     color: #254441;
 }
 
 #signup {
     float: center;
     letter-spacing: 4px;
-    color: #254441;
+    color: white; 
     margin: 20%;
+    background-color: #97B1A6;
+}
+
+#signup label {
+    
+    color: #254441;
+
 }
 
 #contactus {
-    float: center;
+   
     letter-spacing: 4px;
     margin: 33%;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #97B1A6;
+}
+
+#contactus ul {
     color: #254441;
 }
+
 
 /* footer */
 
