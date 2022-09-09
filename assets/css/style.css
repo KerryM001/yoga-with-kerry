@@ -9,6 +9,10 @@ body {
     margin: 0;
 }
 
+body p {
+    color: black;
+}
+
 /* hero image */
 
 #hero-outer {
@@ -30,7 +34,7 @@ body {
 body {
     margin: 0;
     padding: 0;
-    color: #cdcdcd;
+    color: black;
   }
   
   #menuToggle {
@@ -47,14 +51,14 @@ body {
   
   #menuToggle a {
     text-decoration: none;
-    color: #232323;
+    color: black;
     -webkit-transition: color 0.3s ease;
     -o-transition: color 0.3s ease;
     transition: color 0.3s ease;
   }
   
   #menuToggle a:hover {
-    color: #4f7794;
+    color: black;
   }
   
   #menuToggle input {
@@ -87,7 +91,7 @@ body {
     height: 2px;
     margin-bottom: 6px;
     position: relative;
-    background: #cdcdcd;
+    background: black;
     border-radius: 3px;  
     z-index: 1;  
     -webkit-transform-origin: 4px 0px;  
@@ -145,7 +149,7 @@ body {
     margin-top: 5px;
     margin-bottom: 70px;
     background-color: transparent; 
-    color: white;
+    color: black;
 }
 
 p {
@@ -169,7 +173,7 @@ h1 p {
 #about {
     letter-spacing: 4px;
     margin: 33%;
-    color: white;
+    color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -188,7 +192,7 @@ h1 p {
     
     letter-spacing: 4px;
     margin: 33%;
-    color: white;
+    color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -202,7 +206,7 @@ h1 p {
 #signup {
     float: center;
     letter-spacing: 4px;
-    color: white; 
+    color: black;
     margin: 20%;
     background-color: #97B1A6;
 }
@@ -217,7 +221,7 @@ h1 p {
    
     letter-spacing: 4px;
     margin: 33%;
-    color: white;
+    color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
