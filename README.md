@@ -72,16 +72,11 @@ Here discuss about the colours you have chosen for the design and the reasoning 
 For the page we decided on a black (#000) and red theme (#a red hash i can't remember one) to hark back to the designs of the Sega megadrive which is symbolic of the retro gaming scene blah blah bull shit goes here
 ​
 ## **Typography**
-​
-Here is a chance to discuss the fonts used and again why, doesn't need to be crazy detail
-​
-* Throughout the page, there are three fonts used:
-  * Oswald - For the title to give it a strong presence.
-  * DM sans - For all other headings including the navbar. 
-  * Open sans - for all content text.
-​
-* DM and Open sans were both selected to complement each other and because they have a soft appearance which I thought best suited to the site
-* All fonts were sourced from Google fonts, as stated in the credits.
+​​
+* Throughout the page, there are two fonts used:
+  * Oswald - 
+  * 
+  * All fonts were sourced from Google fonts, as stated in the credits.
 ​
 ## **Current Features Common to all pages**
 ​
@@ -129,17 +124,17 @@ We always have bugs in development, a few bullet points here to talk about bugs 
 ## **Deployment**
 I deployed the page on GitHub pages via the following procedure: -
 ​
-1. From the project's [repository](pageurl), go to the **Settings** tab.
+1. From the project's [repository](https://kerrym001-yogawithkerry-86imul3wrzh.ws-eu63.gitpod.io/), go to the **Settings** tab.
 2. From the left-hand menu, select the **Pages** tab.
 3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
 4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
 ​
-You  can find the live site via the following URL - [live webpage](https://yoururlhere)
+You  can find the live site via the following URL - [live webpage](https://kerrym001.github.io/yoga-with-kerry/)
 ***
 ​
 ## **Tech**
 ​
-Here mention what technologies you've used for example
+To build this webpage, I used:
 ​
 - HTML
 - CSS
@@ -147,12 +142,12 @@ Here mention what technologies you've used for example
 ## **Credits**
 ### **Honorable mentions**
 ​
-It's always nice to mention those that helped you get there, if people gave you support on slack or the local cat scared you into completing give them a mention!
+A big shout out to Richard for getting me through this project! 
 ​
 ### **Content:**
 ​
-If you took any code from online source and by this i mean copy paste with zero changes mention it here!
+I used this site (https://css-tricks.com/three-css-alternatives-to-javascript-navigation/) to help me add a hamburger menu, I made a few minor changes, like colors
   
 ### **Media:**
 ​
-Links to the locations of images if you've used them from an online source!
+Hero image: https://www.pexels.com/photo/woman-in-black-sports-bra-and-leggings-5184363/
