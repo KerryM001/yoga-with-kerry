@@ -171,17 +171,18 @@ h1 p {
 }
 
 #about {
-    letter-spacing: 4px;
-    margin: 33%;
+    letter-spacing: 6px;
+    margin: 20%;
     color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
     background-color: #97B1A6;
+    margin-left: 100px;
 }
 
 #about p {
-    letter-spacing: 4px;
+    letter-spacing: 6px;
     color: #254441;
     display: flex;
     justify-content: space-around;
@@ -207,13 +208,14 @@ h1 p {
 
 #timetable {
     
-    letter-spacing: 4px;
-    margin: 33%;
+    letter-spacing: 6px;
+    margin: 20%;
     color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
     background-color: #97B1A6;
+    margin-right: 100px;
 }
 
 #timetable ul {
@@ -228,7 +230,6 @@ h1 p {
     border-color: #ccc;
     border-width: 1px;
     border-radius: 50%;
-    margin: 0 auto;
 }
 
 #circle-cover-bg-2 {
@@ -253,7 +254,7 @@ h1 p {
 
 #contactus {
    
-    letter-spacing: 4px;
+    letter-spacing: 6px;
     margin: 33%;
     color: black;
     display: flex;
@@ -272,6 +273,7 @@ h1 p {
 footer {
     height: 150px;
     color: #254441;
+    background-color: #97B1A6;
 }
 
 .social-media {
