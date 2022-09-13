@@ -189,21 +189,11 @@ h1 p {
     align-items: center;
 }
 
-#circle-container {
-    width: 500px;
-    height: 500px;
-    padding: 50px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto;
-}
-
-#circle-cover-bg {
-    background: url('/assets/css/yoga-logo.webp') no-repeat center center;
-    height: 100%;
-    border-radius: 50%;
+#yoga-image {
+    background: url(./yoga-image.jpg) no-repeat center;
+    background-size: cover;
+    height: 650px;
+    position: relative;
 }
 
 #timetable {
@@ -222,20 +212,11 @@ h1 p {
     color: #254441;
 }
 
-#circle-container-2 {
-    width: 500px;
-    height: 500px;
-    padding: 50px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-}
-
-#circle-cover-bg-2 {
-    background: url('/assets/css/rock-formation.png') no-repeat center center;
-    height: 100%;
-    border-radius: 50%;
+#yoga-class {
+    background: url(./yoga-class.jpg) no-repeat center;
+    background-size: cover;
+    height: 650px;
+    position: relative;
 }
 
 #signup {
