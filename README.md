@@ -36,68 +36,63 @@ Yoga with Kerry is a small business located in Dublin, Ireland. It's aim is to o
 ​
 ## **Planning stage**
 ### **Target Audiences:**
-​
-This section is a breakdown of the target audience 3 or 4 bullet points so using our example
-​
+​​
 * Users interested in yoga
 * Users interested in a escaping the rush of city life
 * Users interested in exercise in Dublin area
 ​
 ### **User Stories:**
-​
-User stories are more what the user wants from the site in terms of features and presentation
-​
+​​
 * As a user, I want to see the subject matter of the page.
 * As a user, I want to navigate the page to find what I require quickly and easily.
 * As a user, I want to learn more about what the business offers
 * As a user, I want to reach out and contact the business
 ​
 ### **Site Aims:**
-​
-This is optional but offers the insight into what the aim of the project are
-​
-* To inform the user on opening times
-* To inform the user about what we offer when they are here
-* To offer the user an oppertunity to get in contact
-​
+​​
+* To inform the user on class times
+* To inform the user about the business in general
+* To offer the user an opportunity to get in contact
 ​
 ### **Wireframes:**
 ​
 These are optional if you have any drawings or diagrams about how the site is intended to look include them here
 ​
 ### **Color Scheme:**
-​
-Here discuss about the colours you have chosen for the design and the reasoning behind it, make sure to include hash values as well!
-​
-For the page we decided on a black (#000) and red theme (#a red hash i can't remember one) to hark back to the designs of the Sega megadrive which is symbolic of the retro gaming scene blah blah bull shit goes here
+​​
+For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find these colors really calming, and I think this ties in well with yoga in general. I chose to keep the font as black (0,0,0) as from an accessibility point of view, it's easy to read.
 ​
 ## **Typography**
 ​​
-* Throughout the page, there are two fonts used:
-  * Oswald - 
-  * 
+* Throughout the page, there is one main font used:
+  * Oswald - I used this font as I think that it's nice to look at, and it is very easy to read.
+  * Sans serif - this was a fallback font.
   * All fonts were sourced from Google fonts, as stated in the credits.
 ​
 ## **Current Features Common to all pages**
 ​
 #### *Navigation Bar:*
-This is an example of the features section, your going to talk about each section of the page and what it offers for the navbar for example
 ​
-* The user is given links to each section of the page
-* Each option is presented in a way that is always obvious and reable
-* on smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience
+* The user is given links to each section of the page, and when clicked, these bring the user to the section.
+* Each option is clear and easy to read.
+* I used a hamburger menu, to provide a better user experience.
 ​
 #### *features
 ​
-* This is where you will place all of your features think about each section of the page include a screenshot and a few bullet points on how it's presented and why
+* Logo: I used Oswald font as I think it's easy to read, and looks good. I made the font larger than the rest of the page, so it stands out, and it makes it obviously that it's the page logo. I chose to keep the font as black as from an accessibility point of view, it's easy to read.
+* Hero Image: I chose this image as I think that it encaptures the energy that I wanted to bring to the webpage. I think it shows clearly that the page is for a yoga business.
+* Hamburger Menu: I used this type of menu, as I think it creates a better user experience. 
+* About section: I used Oswald font as I think it's easy to read, and looks good. I used this section to inform the potential customer about the business in general. I added a background color of teal around this section, to make it stand out to the user.
+* Timetable section: I used Oswald font as I think it's easy to read, and looks good. This section informs the user of the times of the classes, so they can see what suits them best. I added a background color of teal around this section, to make it stand out to the user.
+* Sign up section: I made the first name and email mandatory to submit the form. I made the last name optional, as it's ok if users don't want to provide their full name. I added a background color of teal around this section, to make it stand out to the user.
+* Contact Us section: I used Oswald font as I think it's easy to read, and looks good. This section provides the contact details of the business to the user, in case they have any questions. I formatted this in an unordered list, to make it clearer to the user. I also added a background color of teal around this section, to make it stand out to the user.
+* Social Media links: I styled these with icons from https://fontawesome.com/ and once clicked, they link out externally. I think that this provides a better user experience, while also being helpful to the business, as it means that the potential customer stays on the businesses' website.
 ​
 ## **Future-Enhancements**
+​​
+* At the time of making this page, I didn't have the understanding to actual send e-mails from the contact form so intergration with email would be something I'd like to learn, as this would improve user experience.
 ​
-A webpage is a living beast it's going to evolve past the initial stages of release generally, it's always good to discuss where you this the page may go in the future
-​
-* At the time of making this page i didn't have the understanding to actual send e-mails from the contact form so intergration with email.js to send e-mails would improve the users experience
-​
-* Due to the subject matter, we have discussed the idea of including a small JS game to engage the user
+* I would have also liked to have added a page where you could actually book yoga classes, but I'm sure how to go about it at this time. I think this would really boost the businesses' page, as it makes it easier for people to commit to classes.
 ​
 ## **Testing Phase**
 ​
@@ -110,16 +105,14 @@ Here is a good idea to talk about how and why you have tested with certain tools
 * Functionality - Each feature needs to be tested before something is complete, talk about the process, click each link check each image, does form validation work, if your using javascript or anything else, does it always behave as the user expects
 ​
 * Validators - Here include images from w3c html validator and css jigsaw (jshint for js and pep8 for python) and the results that came from it
-​
-​
+
+
 ## **Bugs**
-​
-We always have bugs in development, a few bullet points here to talk about bugs you found and how you fixed them, in later projects this will be more detailed
-​
+​​
 * Issue - When on mobile the user had horizontal scroll with items overflowing
 * Cause - The images had absolute positioning and caused them to go off screen
 * Resolution - Changed the width of the image to stay within the confines of the screen.
-​
+
 ***
 ## **Deployment**
 I deployed the page on GitHub pages via the following procedure: -
@@ -151,3 +144,5 @@ I used this site (https://css-tricks.com/three-css-alternatives-to-javascript-na
 ### **Media:**
 ​
 Hero image: https://www.pexels.com/photo/woman-in-black-sports-bra-and-leggings-5184363/
+Yoga class image: https://www.pexels.com/photo/a-man-instructing-yoga-to-a-group-of-women-8436490/
+Yoga image: https://www.pexels.com/photo/woman-in-crop-top-on-a-yoga-mat-6957967/
