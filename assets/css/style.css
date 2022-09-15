@@ -178,7 +178,7 @@ h1 p {
     justify-content: space-around;
     align-items: center;
     background-color: #97B1A6;
-    margin-left: 100px;
+    margin-center: 100px;
 }
 
 #about p {
@@ -205,7 +205,8 @@ h1 p {
     justify-content: space-around;
     align-items: center;
     background-color: #97B1A6;
-    margin-right: 100px;
+    justify-content: space-around;
+    align-items: flex-end;
 }
 
 #timetable ul {
@@ -267,6 +268,8 @@ footer {
     font-size: 120%;
     letter-spacing: 4px;
     color: #254441;
+    justify-content: space-around;
+    align-items: flex-end;
 }
 
 .social-media i {
@@ -274,6 +277,8 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #254441;
+    justify-content: space-around;
+    align-items: flex-end;
 }
 
 /* media queries */
