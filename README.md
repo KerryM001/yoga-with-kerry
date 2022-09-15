@@ -80,6 +80,9 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 #### *features
 ​
 * Logo: I used Oswald font as I think it's easy to read, and looks good. I made the font larger than the rest of the page, so it stands out, and it makes it obviously that it's the page logo. I chose to keep the font as black as from an accessibility point of view, it's easy to read.
+
+![about](about.png)
+
 * Hero Image: I chose this image as I think that it encaptures the energy that I wanted to bring to the webpage. I think it shows clearly that the page is for a yoga business.
 * Hamburger Menu: I used this type of menu, as I think it creates a better user experience. 
 * About section: I used Oswald font as I think it's easy to read, and looks good. I used this section to inform the potential customer about the business in general. I added a background color of teal around this section, to make it stand out to the user.
