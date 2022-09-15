@@ -81,35 +81,35 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 ​
 * Logo: I used Oswald font as I think it's easy to read, and looks good. I made the font larger than the rest of the page, so it stands out, and it makes it obviously that it's the page logo. I chose to keep the font as black as from an accessibility point of view, it's easy to read.
 
-![logo](logo.png)
+![logo](../yoga-with-kerry/assets/css/docs/logo.png)
 
 * Hero Image: I chose this image as I think that it encaptures the energy that I wanted to bring to the webpage. I think it shows clearly that the page is for a yoga business.
 
-![hero-image](hero-image.png)
+![hero-image](../yoga-with-kerry/assets/css/docs/yoga-hero.jpg)
 
 * Hamburger Menu: I used this type of menu, as I think it creates a better user experience. 
 
-![hamburger-menu](hamburger-menu.png)
+![hamburger-menu](hamburger-menu.png) - GET HAMBURGER SCREENSHOT
 
 * About section: I used Oswald font as I think it's easy to read, and looks good. I used this section to inform the potential customer about the business in general. I added a background color of teal around this section, to make it stand out to the user.
 
-![about](about.png)
+![about](../yoga-with-kerry/assets/css/docs/about.png)
 
 * Timetable section: I used Oswald font as I think it's easy to read, and looks good. This section informs the user of the times of the classes, so they can see what suits them best. I added a background color of teal around this section, to make it stand out to the user.
 
-![timetable](timetable.png)
+![timetable](../yoga-with-kerry/assets/css/docs/timetable.png)
 
 * Sign up section: I made the first name and email mandatory to submit the form. I made the last name optional, as it's ok if users don't want to provide their full name. I added a background color of teal around this section, to make it stand out to the user.
 
-![sign-up-form](sign-up-form.png)
+![sign-up-form](../yoga-with-kerry/assets/css/docs/sign-up-form.png)
 
 * Contact Us section: I used Oswald font as I think it's easy to read, and looks good. This section provides the contact details of the business to the user, in case they have any questions. I formatted this in an unordered list, to make it clearer to the user. I also added a background color of teal around this section, to make it stand out to the user.
 
-![contact-us](contact-us.png)
+![contact-us](../yoga-with-kerry/assets/css/docs/contact-us.png)
 
 * Social Media links: I styled these with icons from https://fontawesome.com/ and once clicked, they link out externally. I think that this provides a better user experience, while also being helpful to the business, as it means that the potential customer stays on the businesses' website.
 
-![social-media-links](social-media-links.png)
+![social-media-links](../yoga-with-kerry/assets/css/docs/social-media-links.png)
 ​
 ## **Future-Enhancements**
 ​​
@@ -159,11 +159,11 @@ To build this webpage, I used:
 ### **Honorable mentions**
 ​
 A big shout out to Richard for getting me through this project! 
-I also found this website really helpful https://alvarotrigo.com/blog/hamburger-menu-css/#:~:text=What%20Is%20A%20Hamburger%20Menu,top%20of%20the%20main%20content, along with advice from fellow students on Slack.
+I also got advice from fellow students on Slack, which was extremely helpful.
 ​
 ### **Content:**
 ​
-I used this site (https://css-tricks.com/three-css-alternatives-to-javascript-navigation/) to help me add a hamburger menu, I made a few minor changes, like colors
+PUT HAMBURGER LINK TO SITE HERE
   
 ### **Media:**
 ​

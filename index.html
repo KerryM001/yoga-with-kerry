@@ -12,33 +12,34 @@
 </head>
 <body>
     <header>
-        <p>Find your flow today</p>
-        <a href="index.html">
-            <h1 id="logo">Yoga with Kerry</h1></a>
 
-    <!-- navigation -->
-
-    <nav role="navigation">
-        <div id="menuToggle"> 
-          <input name="toggle" type="checkbox" />
-          <label for="toggle">
-            <span>menu</span>
-            <!--
-            divs to be styled as a hamburger button
-            -->
-            <div></div>
-            <div></div>
-            <div></div>
+        <!-- navigation -->
+        <section class="top-nav">
+            <p>Find your flow today</p>
+            <div id="logo">
+                <a href="index.html" class="active">
+              Yoga with Kerry</a>
+            </div>
+            <input id="menu-toggle" type="checkbox" />
+            <label class='menu-button-container' for="menu-toggle">
+            <div class='menu-button'></div>
           </label>
-                <ul id="menu">
-                    <li><a href="#contactus">Contact Us</a></li>
-                    <li><a href="#signup">Sign Up</a></li>
-                    <li><a href="#timetable">Timetable</a></li>
-                    <li><a href="#about">About</a></li>
-                </ul>
-                </div>
-            </nav>
-    </header>
+            <ul class="menu">
+              <li>
+                <a href="about">About</a>
+            </li>
+              <li>
+                <a href="timetable">Timetable</a>
+            </li>
+              <li>
+                <a href="signup">Sign up</a>
+            </li>
+              <li>
+                <a href="contactus">Contact us</a>
+            </li>
+            </ul>
+          </section>
+        </header>
 
     <!-- hero image -->
     <section id="hero-outer">
