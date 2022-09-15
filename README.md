@@ -54,10 +54,6 @@ Yoga with Kerry is a small business located in Dublin, Ireland. It's aim is to o
 * To inform the user about the business in general
 * To offer the user an opportunity to get in contact
 ​
-### **Wireframes:**
-​
-These are optional if you have any drawings or diagrams about how the site is intended to look include them here
-​
 ### **Color Scheme:**
 ​​
 For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find these colors really calming, and I think this ties in well with yoga in general. I chose to keep the font as black (0,0,0) as from an accessibility point of view, it's easy to read.
@@ -129,7 +125,6 @@ Here is a good idea to talk about how and why you have tested with certain tools
 ​
 * Validators - Here include images from w3c html validator and css jigsaw (jshint for js and pep8 for python) and the results that came from it
 
-
 ## **Bugs**
 ​​
 * Issue - When on mobile the user had horizontal scroll with items overflowing
@@ -137,6 +132,7 @@ Here is a good idea to talk about how and why you have tested with certain tools
 * Resolution - Changed the width of the image to stay within the confines of the screen.
 
 ***
+
 ## **Deployment**
 I deployed the page on GitHub pages via the following procedure: -
 ​
