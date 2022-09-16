@@ -60,7 +60,7 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 ​​
 * Throughout the page, there is one main font used:
   * Oswald - I used this font as I think that it's nice to look at, and it is very easy to read.
-  * Sans serif - this was a fallback font.
+  * Sans serif - This was a fallback font.
   * All fonts were sourced from Google fonts, as stated in the credits.
 ​
 ## **Current Features Common to all pages**
@@ -69,7 +69,7 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 ​
 * The user is given links to each section of the page, and when clicked, these bring the user to the section.
 * Each option is clear and easy to read.
-* I used a hamburger menu, to provide a better user experience.
+* It minimises to a column when seen on smaller screens, to provide better user experience.
 ​
 #### *features
 ​
@@ -84,7 +84,7 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 
 ![hero-image](../yoga-with-kerry/assets/css/docs/yoga-hero.jpg)
 
-* Navigation Bar: I used this type of menu, as I think it creates a better user experience. 
+* Navigation Bar: I used this type of menu, as I think it creates a better user experience, when seen on smaller screens. 
 
 ![navigation-bar-1](../yoga-with-kerry/assets/css/docs/navigation-bar-1.png)
 
@@ -116,7 +116,7 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 ![contact-us](../yoga-with-kerry/assets/css/docs/contact-us.png)
 
 * Social Media links: I styled these with icons from https://fontawesome.com/ and once clicked, they link out externally. 
-* I think that this provides a better user experience, while also being helpful to the business, as it means that the potential customer stays on the businesses' website.
+* This provides a better user experience, while also being helpful to the business, as it means that the potential customer stays on the businesses' website.
 
 ![social-media-links](../yoga-with-kerry/assets/css/docs/social-media-links.png)
 ​
@@ -132,9 +132,14 @@ Here is a good idea to talk about how and why you have tested with certain tools
 ​
 * Responsiveness - I used https://amiresponsive.co.uk/ to test how responsive the site was on different screensizes.
 ​
-* Functionality - Each feature needs to be tested before something is complete, talk about the process, click each link check each image, does form validation work, if your using javascript or anything else, does it always behave as the user expects
+* Functionality - I tested my navigation bar by clicking each link, to make sure that it brought you to the right section of the page.
+* I tested the social media links by clicking each link, to make sure that they brought you to the site externally.
 ​
-* Validators - Here include images from w3c html validator and css jigsaw (jshint for js and pep8 for python) and the results that came from it
+* Validators - Please see below the results from w3c html validator and css jigsaw.
+
+![w3c](../yoga-with-kerry/assets/css/docs/wc3.png)
+![css-jigsaw](../yoga-with-kerry/assets/css/docs/css-jigsaw.png)
+
 
 ## **Bugs**
 ​​
