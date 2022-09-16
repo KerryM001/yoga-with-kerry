@@ -11,7 +11,6 @@ Yoga with Kerry is a small business located in Dublin, Ireland. It's aim is to o
     * [***Target Audiences***](#target-audiences)
     * [***User Stories***](#user-stories)
     * [***Site Aims***](#site-aims)
-    * [***Wireframes***](#wireframes)
     * [***Color Scheme***](#color-scheme)
     * [***Typography**](#typography)
 1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
@@ -31,7 +30,6 @@ Yoga with Kerry is a small business located in Dublin, Ireland. It's aim is to o
 1. [**Credits**](#credits)
     * [**Honorable mentions**](#honorable-mentions)
     * [**General reference**](#general-reference)
-    * [**Content**](#content)
     * [**Media**](#media)
 ​
 ## **Planning stage**
@@ -75,35 +73,50 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 ​
 #### *features
 ​
-* Logo: I used Oswald font as I think it's easy to read, and looks good. I made the font larger than the rest of the page, so it stands out, and it makes it obviously that it's the page logo. I chose to keep the font as black as from an accessibility point of view, it's easy to read.
+* Logo: I used Oswald font as I think it's easy to read, and looks good. 
+* I made the font larger than the rest of the page, so it stands out, and it makes it obviously that it's the page logo. 
+* I chose to keep the font as black as from an accessibility point of view, it's easy to read.
 
 ![logo](../yoga-with-kerry/assets/css/docs/logo.png)
 
-* Hero Image: I chose this image as I think that it encaptures the energy that I wanted to bring to the webpage. I think it shows clearly that the page is for a yoga business.
+* Hero Image: I chose this image as I think that it encaptures the energy that I wanted to bring to the webpage. 
+* I think it shows clearly that the page is for a yoga business.
 
 ![hero-image](../yoga-with-kerry/assets/css/docs/yoga-hero.jpg)
 
-* Hamburger Menu: I used this type of menu, as I think it creates a better user experience. 
+* Navigation Bar: I used this type of menu, as I think it creates a better user experience. 
 
-![hamburger-menu](hamburger-menu.png) - GET HAMBURGER SCREENSHOT
+![navigation-bar-1](../yoga-with-kerry/assets/css/docs/navigation-bar-1.png)
 
-* About section: I used Oswald font as I think it's easy to read, and looks good. I used this section to inform the potential customer about the business in general. I added a background color of teal around this section, to make it stand out to the user.
+![navigation-bar-2](../yoga-with-kerry/assets/css/docs/navigation-bar-2.png)
+
+* About section: I used Oswald font as I think it's easy to read, and looks good. 
+* I used this section to inform the potential customer about the business in general. 
+* I added a background color of teal around this section, to make it stand out to the user.
 
 ![about](../yoga-with-kerry/assets/css/docs/about.png)
 
-* Timetable section: I used Oswald font as I think it's easy to read, and looks good. This section informs the user of the times of the classes, so they can see what suits them best. I added a background color of teal around this section, to make it stand out to the user.
+* Timetable section: I used Oswald font as I think it's easy to read, and looks good. 
+* This section informs the user of the times of the classes, so they can see what suits them best. 
+* I added a background color of teal around this section, to make it stand out to the user.
 
 ![timetable](../yoga-with-kerry/assets/css/docs/timetable.png)
 
-* Sign up section: I made the first name and email mandatory to submit the form. I made the last name optional, as it's ok if users don't want to provide their full name. I added a background color of teal around this section, to make it stand out to the user.
+* Sign up section: I made the first name and email mandatory to submit the form. 
+* I made the last name optional, as it's ok if users don't want to provide their full name. 
+* I added a background color of teal around this section, to make it stand out to the user.
 
 ![sign-up-form](../yoga-with-kerry/assets/css/docs/sign-up-form.png)
 
-* Contact Us section: I used Oswald font as I think it's easy to read, and looks good. This section provides the contact details of the business to the user, in case they have any questions. I formatted this in an unordered list, to make it clearer to the user. I also added a background color of teal around this section, to make it stand out to the user.
+* Contact Us section: I used Oswald font as I think it's easy to read, and looks good. 
+* This section provides the contact details of the business to the user, in case they have any questions. 
+* I formatted this in an unordered list, to make it clearer to the user. 
+* I also added a background color of teal around this section, to make it stand out to the user.
 
 ![contact-us](../yoga-with-kerry/assets/css/docs/contact-us.png)
 
-* Social Media links: I styled these with icons from https://fontawesome.com/ and once clicked, they link out externally. I think that this provides a better user experience, while also being helpful to the business, as it means that the potential customer stays on the businesses' website.
+* Social Media links: I styled these with icons from https://fontawesome.com/ and once clicked, they link out externally. 
+* I think that this provides a better user experience, while also being helpful to the business, as it means that the potential customer stays on the businesses' website.
 
 ![social-media-links](../yoga-with-kerry/assets/css/docs/social-media-links.png)
 ​
@@ -115,11 +128,9 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 ​
 ## **Testing Phase**
 ​
-This is the hardest bit of the readme, when we have completed a page we need to discuss testing.
-​
 Here is a good idea to talk about how and why you have tested with certain tools and validators so here a list of things to talk through
 ​
-* Responsiveness - How do you test this, dev tools? checking on multiple devices?
+* Responsiveness - I used https://amiresponsive.co.uk/ to test how responsive the site was on different screensizes.
 ​
 * Functionality - Each feature needs to be tested before something is complete, talk about the process, click each link check each image, does form validation work, if your using javascript or anything else, does it always behave as the user expects
 ​
@@ -127,9 +138,9 @@ Here is a good idea to talk about how and why you have tested with certain tools
 
 ## **Bugs**
 ​​
-* Issue - When on mobile the user had horizontal scroll with items overflowing
-* Cause - The images had absolute positioning and caused them to go off screen
-* Resolution - Changed the width of the image to stay within the confines of the screen.
+* Issue - When on mobile the user had horizontal scroll with items overflowing.
+* Cause - The margin values were incorrect.
+* Resolution - Changed the margin values in my media queries.
 
 ***
 
@@ -157,10 +168,6 @@ To build this webpage, I used:
 A big shout out to Richard for getting me through this project! 
 I also got advice from fellow students on Slack, which was extremely helpful.
 ​
-### **Content:**
-​
-PUT HAMBURGER LINK TO SITE HERE
-  
 ### **Media:**
 ​
 Hero image: https://www.pexels.com/photo/woman-in-black-sports-bra-and-leggings-5184363/
