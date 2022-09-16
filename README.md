@@ -3,7 +3,7 @@
 ​
 Yoga with Kerry is a small business located in Dublin, Ireland. It's aim is to offer people a place to escape the rush of the city, and come home to themselves, even just for the length of a class. The business targets anyone, of any age, who wishes to practice yoga. The business prides itself on being inclusive, regardless of ability. 
 ​
-![Am I responsive screenshot](imagelocation so maybe docs/image.jpg)
+![am-i-responsive](../yoga-with-kerry/assets/css/docs/am-i-responsive.png)
 ​
 ## Table of contents:
 1. [**Site Overview**](#site-overview)
@@ -126,14 +126,12 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 ​
 * I would have also liked to have added a page where you could actually book yoga classes, but I'm sure how to go about it at this time. I think this would really boost the businesses' page, as it makes it easier for people to commit to classes.
 ​
-## **Testing Phase**
-​
-Here is a good idea to talk about how and why you have tested with certain tools and validators so here a list of things to talk through
-​
+## **Testing Phase**​
 * Responsiveness - I used https://amiresponsive.co.uk/ to test how responsive the site was on different screensizes.
 ​
 * Functionality - I tested my navigation bar by clicking each link, to make sure that it brought you to the right section of the page.
 * I tested the social media links by clicking each link, to make sure that they brought you to the site externally.
+* I tested the sign up form by trying to sign up without entering an email, this works as the form doesn't allow you to proceed without a first name or email, as I intended.
 ​
 * Validators - Please see below the results from w3c html validator and css jigsaw.
 
