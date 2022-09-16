@@ -94,13 +94,13 @@ h1 p {
 
 #about {
     letter-spacing: 6px;
-    margin: 20%;
+    margin: 7rem;
     color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
     background-color: #97B1A6;
-    margin-center: 100px;
+    margin-inline: 100px;
 }
 
 #about p {
@@ -121,7 +121,7 @@ h1 p {
 #timetable {
 
     letter-spacing: 6px;
-    margin: 20%;
+    margin: 7rem;
     color: black;
     display: flex;
     justify-content: space-around;
@@ -159,7 +159,7 @@ h1 p {
 #contactus {
 
     letter-spacing: 6px;
-    margin: 33%;
+    margin: 7rem;
     color: black;
     display: flex;
     justify-content: space-around;
