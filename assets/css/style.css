@@ -118,15 +118,19 @@ h1 p {
     letter-spacing: 6px;
     margin: 7rem;
     color: black;
-    display: flex;
-    align-items: center;
     background-color: #97B1A6;
-    justify-content: space-around;
-    align-items: flex-end;
 }
 
 #timetable ul {
     color: #254441;
+}
+
+#timetable h2 {
+    letter-spacing: 6px;
+    margin: 6rem;
+    color: black;
+    text-align: center;
+
 }
 
 #yoga-class {
@@ -149,6 +153,10 @@ h1 p {
 
     color: #254441;
 
+}
+
+#signup h1 {
+    text-align: center;
 }
 
 #contactus {
