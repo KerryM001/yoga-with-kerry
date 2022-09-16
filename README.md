@@ -127,6 +127,7 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 * I would have also liked to have added a page where you could actually book yoga classes, but I'm sure how to go about it at this time. I think this would really boost the businesses' page, as it makes it easier for people to commit to classes.
 ​
 ## **Testing Phase**​
+
 * Responsiveness - I used https://amiresponsive.co.uk/ to test how responsive the site was on different screensizes.
 ​
 * Functionality - I tested my navigation bar by clicking each link, to make sure that it brought you to the right section of the page.
@@ -148,6 +149,7 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 ***
 
 ## **Deployment**
+
 I deployed the page on GitHub pages via the following procedure: -
 ​
 1. From the project's [repository](https://kerrym001-yogawithkerry-86imul3wrzh.ws-eu63.gitpod.io/), go to the **Settings** tab.
