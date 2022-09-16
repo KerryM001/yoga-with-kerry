@@ -38,8 +38,6 @@ body {
     color: black;
 }
 
-
-
 .form-container {
     width: 90%;
 }
@@ -61,14 +59,11 @@ body {
     font-size: 3rem;
 }
 
-
-
 /* headings and logo */
 
 #logo {
     float: right;
     font-size: 280%;
-    margin-top: 5px;
     margin-bottom: 70px;
     background-color: transparent;
     color: black;
@@ -124,7 +119,6 @@ h1 p {
     margin: 7rem;
     color: black;
     display: flex;
-    justify-content: space-around;
     align-items: center;
     background-color: #97B1A6;
     justify-content: space-around;
@@ -146,8 +140,9 @@ h1 p {
     float: center;
     letter-spacing: 4px;
     color: black;
-    margin: 20%;
+    margin: 7rem;
     background-color: #97B1A6;
+    table-layout: fixed;
 }
 
 #signup label {
@@ -170,7 +165,6 @@ h1 p {
 #contactus ul {
     color: #254441;
 }
-
 
 /* footer */
 
@@ -219,7 +213,6 @@ footer {
         margin: 0;
     }
 
-
 }
 
 /* for medium screen sizes from 950px wide and down */
@@ -247,9 +240,6 @@ footer {
         padding: 0 20px;
     }
 }
-
-
-
 
 .top-nav {
     display: flex;
