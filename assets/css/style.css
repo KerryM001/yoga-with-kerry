@@ -57,6 +57,7 @@ body {
     top: 06px;
     right: 15px;
     font-size: 3rem;
+    margin: 1rem;
 }
 
 /* headings and logo */
@@ -240,7 +241,6 @@ footer {
 
     #logo {
         margin-bottom: 20px;
-        font-size: small;
     }
 
     h1 {
