@@ -129,6 +129,8 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 ## **Testing Phase**​
 
 * Responsiveness - I used https://amiresponsive.co.uk/ to test how responsive the site was on different screensizes.
+* I also tested the site on my mobile phone to see what the design looked like, and to see how the page loaded.
+* I used Google Developer tools as well to resize the screen to different sizes, to see how it looked to users.
 ​
 * Functionality - I tested my navigation bar by clicking each link, to make sure that it brought you to the right section of the page.
 * I tested the social media links by clicking each link, to make sure that they brought you to the site externally.
