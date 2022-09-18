@@ -3,7 +3,7 @@
 ​
 Yoga with Kerry is a small business located in Dublin, Ireland. It's aim is to offer people a place to escape the rush of the city, and come home to themselves, even just for the length of a class. The business targets anyone, of any age, who wishes to practice yoga. The business prides itself on being inclusive, regardless of ability. 
 ​
-![am-i-responsive](../yoga-with-kerry/assets/css/docs/am-i-responsive.png)
+![am-i-responsive](../assets/css/docs/am-i-responsive.png)
 ​
 ## Table of contents:
 1. [**Site Overview**](#site-overview)
