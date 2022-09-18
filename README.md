@@ -3,7 +3,7 @@
 ​
 Yoga with Kerry is a small business located in Dublin, Ireland. It's aim is to offer people a place to escape the rush of the city, and come home to themselves, even just for the length of a class. The business targets anyone, of any age, who wishes to practice yoga. The business prides itself on being inclusive, regardless of ability. 
 ​
-![am-i-responsive](../assets/css/docs/am-i-responsive.png)
+![am-i-responsive](/assets/docs/am-i-responsive.png)
 ​
 ## Table of contents:
 1. [**Site Overview**](#site-overview)
@@ -77,48 +77,48 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 * I made the font larger than the rest of the page, so it stands out, and it makes it obviously that it's the page logo. 
 * I chose to keep the font as black as from an accessibility point of view, it's easy to read.
 
-![logo](../yoga-with-kerry/assets/css/docs/logo.png)
+![logo](/assets/docs/logo.png)
 
 * Hero Image: I chose this image as I think that it encaptures the energy that I wanted to bring to the webpage. 
 * I think it shows clearly that the page is for a yoga business.
 
-![hero-image](../yoga-with-kerry/assets/css/docs/yoga-hero.jpg)
+![hero-image](/assets/images/hero-image.png)
 
 * Navigation Bar: I used this type of menu, as I think it creates a better user experience, when seen on smaller screens. 
 
-![navigation-bar-1](../yoga-with-kerry/assets/css/docs/navigation-bar-1.png)
+![navigation-bar-1](/assets/docs/navigation-bar-1.png)
 
-![navigation-bar-2](../yoga-with-kerry/assets/css/docs/navigation-bar-2.png)
+![navigation-bar-2](/assets/docs/navigation-bar-2.png)
 
 * About section: I used Oswald font as I think it's easy to read, and looks good. 
 * I used this section to inform the potential customer about the business in general. 
 * I added a background color of teal around this section, to make it stand out to the user.
 
-![about](../yoga-with-kerry/assets/css/docs/about.png)
+![about](/assets/docs/about.png)
 
 * Timetable section: I used Oswald font as I think it's easy to read, and looks good. 
 * This section informs the user of the times of the classes, so they can see what suits them best. 
 * I added a background color of teal around this section, to make it stand out to the user.
 
-![timetable](../yoga-with-kerry/assets/css/docs/timetable.png)
+![timetable](/assets/docs/timetable.png)
 
 * Sign up section: I made the first name and email mandatory to submit the form. 
 * I made the last name optional, as it's ok if users don't want to provide their full name. 
 * I added a background color of teal around this section, to make it stand out to the user.
 
-![sign-up-form](../yoga-with-kerry/assets/css/docs/sign-up-form.png)
+![sign-up-form](/assets/docs/sign-up-form.png)
 
 * Contact Us section: I used Oswald font as I think it's easy to read, and looks good. 
 * This section provides the contact details of the business to the user, in case they have any questions. 
 * I formatted this in an unordered list, to make it clearer to the user. 
 * I also added a background color of teal around this section, to make it stand out to the user.
 
-![contact-us](../yoga-with-kerry/assets/css/docs/contact-us.png)
+![contact-us](/assets/docs/contact-us.png)
 
 * Social Media links: I styled these with icons from https://fontawesome.com/ and once clicked, they link out externally. 
 * This provides a better user experience, while also being helpful to the business, as it means that the potential customer stays on the businesses' website.
 
-![social-media-links](../yoga-with-kerry/assets/css/docs/social-media-links.png)
+![social-media-links](/assets/docs/social-media-links.png)
 ​
 ## **Future-Enhancements**
 ​​
@@ -136,8 +136,8 @@ For the page I decided on a beige (#e09f7d) and teal theme (#97B1A6) as I find t
 ​
 * Validators - Please see below the results from w3c html validator and css jigsaw.
 
-![w3c](../yoga-with-kerry/assets/css/docs/wc3.png)
-![css-jigsaw](../yoga-with-kerry/assets/css/docs/css-jigsaw.png)
+![w3c](/assets/docs/wc3.png)
+![css-jigsaw](/assets/docs/css-jigsaw.png)
 
 
 ## **Bugs**
